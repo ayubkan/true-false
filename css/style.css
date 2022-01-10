@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial';
+    background-color: #333;
+    color:#fff;
+}
+.mario_nargiza,
+.mario_roma,
+.mario_abror {
+    background-color: red;
+}
+.mario_programmer,
+.mario_zebo,
+.mario_toxir {
+    background-color: green;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+h1{text-align: center;}
+
+td, th {
+  border: 1px solid #666;
+  text-align: left;
+  padding: 8px;
+}
+
+tr,button {
+    cursor: pointer;
+}
+/* tr:hover {
+  background-color: #666;
+} */
+
+
+
+.active {
+  background-color: green !important;
+}
